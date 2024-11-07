@@ -1,5 +1,5 @@
 <h1>Money management</h1>
-<h3>productssummary</h3>
+<h3>project summary</h3>
 <p>
   This application is used to calculate the totel ammount of the products on the code
 </p
